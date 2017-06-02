@@ -12,11 +12,11 @@ This piece of work is for peer-graded assignment on 'Getting and Cleaning Data C
 
 ## Files
 The repo contain the next files:
-* `./CodeBook.md` - description of variables, produced in 'tidydata.txt'
+* `./CodeBook.md` - description of variables, produced in `tidydata.txt`
 * `./README.md` - this text file
 * `./run_analysis.R` - a script to transform and summarize original body activity data set from 'data' folder
-* `./tidydata.txt`  - a tidy data set as the result of 'run_analysis.R' script
-* `./data/` - a folder with original unchanged data set, that is used by 'run_analysis.R' script
+* `./tidydata.txt`  - a tidy data set as the result of `run_analysis.R` script
+* `./data/` - a folder with original unchanged data set, that is used by `run_analysis.R` script
 
 ## Analysis notes
 
