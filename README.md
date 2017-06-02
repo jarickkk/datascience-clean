@@ -26,6 +26,7 @@ Please note that this repo doesn't contain 'data' folder, which is supposed to b
 
 ## Author
 _Yaroslav Vasyunin,
+
 Coursera student_
 
 June 2, 2017
