@@ -25,7 +25,7 @@ Please note that this repo doesn't contain 'data' folder, which is supposed to b
 `./run_analysis.R` script contains comments to mark all taken steps. Please note that I decided to combine the 1st step with the 4th, assigning descriptive variable names from the original codebook right after loading data in R.
 
 ## Author
-Yaroslav Vasyunin,
-Coursera student
+_Yaroslav Vasyunin,
+Coursera student_
 
 June 2, 2017
